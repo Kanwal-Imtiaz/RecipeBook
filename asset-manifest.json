@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RecipeBook/static/css/main.c4f006a3.chunk.css",
+    "main.js": "/RecipeBook/static/js/main.441aed27.chunk.js",
+    "main.js.map": "/RecipeBook/static/js/main.441aed27.chunk.js.map",
+    "runtime-main.js": "/RecipeBook/static/js/runtime-main.5d3cea77.js",
+    "runtime-main.js.map": "/RecipeBook/static/js/runtime-main.5d3cea77.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RecipeBook/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0e678b1c.chunk.js": "/RecipeBook/static/js/2.0e678b1c.chunk.js",
+    "static/js/2.0e678b1c.chunk.js.map": "/RecipeBook/static/js/2.0e678b1c.chunk.js.map",
+    "index.html": "/RecipeBook/index.html",
+    "precache-manifest.a1ef295edce7dcd0075fb3ac03f62957.js": "/RecipeBook/precache-manifest.a1ef295edce7dcd0075fb3ac03f62957.js",
+    "service-worker.js": "/RecipeBook/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RecipeBook/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.c4f006a3.chunk.css.map": "/RecipeBook/static/css/main.c4f006a3.chunk.css.map",
+    "static/media/App.css": "/RecipeBook/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d3cea77.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.0e678b1c.chunk.js",
+    "static/css/main.c4f006a3.chunk.css",
+    "static/js/main.441aed27.chunk.js"
+  ]
+}
